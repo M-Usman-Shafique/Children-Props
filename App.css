@@ -1,0 +1,16 @@
+.green-color {
+    background-color: greenyellow;
+}
+
+.cyan-color {
+    background-color:cyan;
+}
+
+.container {
+    height: 50vh;
+}
+
+button {
+    width: 6vw;
+    height: 5vh;
+}
