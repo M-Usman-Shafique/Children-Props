@@ -2,9 +2,9 @@ import React, { useState } from "react";
 
 import "./App.css";
 
-import Parent from "./Components/Parent.jsx";
+import Parent from "Parent.jsx";
 
-function App() {
+function GrandParent() {
   let [a, setA] = useState(true);
   return (
     <div className="container">
@@ -19,4 +19,4 @@ function App() {
   );
 }
 
-export default App;
+export default GrandParent;
